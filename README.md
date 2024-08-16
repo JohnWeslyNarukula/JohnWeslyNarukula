@@ -1,4 +1,4 @@
-<h1 align="center" style="color: red;">HI John Wesly</h1>
+<h1 align="center" style="color: red; font-family: 'Arial', sans-serif;">HI John Wesly</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
